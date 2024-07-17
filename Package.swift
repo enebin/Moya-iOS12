@@ -16,7 +16,7 @@ let package = Package(
     name: "Moya",
     platforms: [
         .macOS(.v10_12),
-        .iOS(.v12),
+        .iOS(.v13),
         .tvOS(.v10),
         .watchOS(.v3)
     ],
